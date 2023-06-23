@@ -189,38 +189,3 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 5px;
  
 }
-
-.flash{
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100vh;
-
-  background: #d0d4d6;
-  -webkit-background-size: cover;
-  background-size: cover;
-}
-.flash__inner{
-  width: 100%;
-  max-width: 800px;
-  margin-top: 20px;
-  margin-left: 10px;
-  text-align: left; 
-   vertical-align: 500px;
-  
-}
-
-.foto{
-  padding-left: 150px;
-
-}
-
-.flash__title{
-
-  margin-top: 40px;
-  margin-right: 20px;
-  color: #939499;
-  font-size: 20px;
-  font-weight: 100;
-  line-height: 1;
-}
